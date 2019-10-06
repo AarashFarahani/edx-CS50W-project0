@@ -1,0 +1,21 @@
+div.container-fluid {
+    margin-top: 2%;
+}
+
+#greeting {
+    color: darkolivegreen;
+}
+
+.link {
+    text-align: center;
+}
+
+a:hover {
+    color: darkcyan;
+}
+
+ul li {
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: darkslategrey;
+}
